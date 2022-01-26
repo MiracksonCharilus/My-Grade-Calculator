@@ -1,0 +1,8 @@
+﻿  Assignment.cpp
+  MGradeCalculator.cpp
+C:\Users\mirac\OneDrive\Desktop\MDC Work\COP\GradeCalc\My Grade Calculator\MGradeCalculator.cpp(116,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mirac\OneDrive\Desktop\MDC Work\COP\GradeCalc\My Grade Calculator\MGradeCalculator.cpp(256,42): error C2660: 'addAssignment': function does not take 0 arguments
+C:\Users\mirac\OneDrive\Desktop\MDC Work\COP\GradeCalc\My Grade Calculator\MGradeCalculator.cpp(250,6): message : see declaration of 'addAssignment'
+C:\Users\mirac\OneDrive\Desktop\MDC Work\COP\GradeCalc\My Grade Calculator\MGradeCalculator.cpp(288,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mirac\OneDrive\Desktop\MDC Work\COP\GradeCalc\My Grade Calculator\MGradeCalculator.cpp(380,17): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
